@@ -102,6 +102,7 @@ body {
 	cursor: pointer;
 	display: flex;
     align-items: center;
+	display: inline-block;
 }
 .quiz__input{
 	appearance: none;
